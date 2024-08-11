@@ -1,6 +1,6 @@
 ["cr_txtMND"]				= "MMD Animasyon dosyası"
 ,["cr_txtFortnite"]			= "Fortnite Animasyon dosyası"
-,["cr_txtAL_"]				= "Çeviriler:"
+,["cr_txtAL_"]				= "Çeviri: Turkish"
 ,["cr_txtProg_"]			= "programlama"
 ,["cr_txtProg2_"]			= "programlama ve testler"
 ,["cr_txtHAni_"]			= "Animasyonlar için talimatlar"
